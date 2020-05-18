@@ -13,3 +13,9 @@ class App extends React.Component {
 }
 
 export default App;
+import React from 'react';
+
+import Auth from '../components/Auth/Auth';
+import MyNavbar from  '../components/MyNavbar/MyNavbar';
+import BoardContainer from '../components/BoardContainer/BoardContainer';
+
